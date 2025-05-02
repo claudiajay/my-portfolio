@@ -1,5 +1,4 @@
 import me from '../../assets/my_photo.jpg'
-import { ProjectCard } from '../projectCards/projectCard';
 
 const About = () => {
   return (

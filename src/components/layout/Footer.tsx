@@ -42,8 +42,8 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-start">
                 <EnvelopeIcon className="h-5 w-5 text-cyan-400 mr-2 mt-0.5 flex-shrink-0" />
-                <a href="mailto:hello@ctrlclaudia.com" className="hover:text-cyan-400 transition-colors">
-                  hello@ctrlclaudia.com
+                <a href="mailto:claudiajoppa@gmail.com" className="hover:text-cyan-400 transition-colors">
+                  claudiajoppa@gmail.com
                 </a>
               </div>
               <div className="flex items-start">

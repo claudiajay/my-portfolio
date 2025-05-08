@@ -11,7 +11,7 @@ export const ProjectCard = ({ project }: ProjectCardProps) => {
         <img 
           src={project.imageUrl} 
           alt={project.title}
-          className="w-full h-full object-cover"
+          className="w-full h-full object-fit"
         />
       </div>
       <div className="p-6">

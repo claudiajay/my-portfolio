@@ -10,7 +10,11 @@ export const TechStack = () => {
     // },
     {
       name: "Data",
-      tools: ["SQL", "Pandas", "NumPy", "PySpark"]
+      tools: ["Excel", "SQL", "R", "Tableau"]
+    },
+    {
+      name: "Tools",
+      tools: ["Github", "Figma", "VS Code", "Canva"]
     },
     // {
     //   name: "DevOps",

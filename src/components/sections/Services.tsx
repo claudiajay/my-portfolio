@@ -5,11 +5,11 @@ export const Services = () => {
       description: "Building responsive, performant web applications with modern frameworks.",
       icon: "💻"
     },
-    {
-      title: "Data Engineering",
-      description: "Designing data pipelines and infrastructure for analytics and machine learning.",
-      icon: "📊"
-    },
+    // {
+    //   title: "Data Engineering",
+    //   description: "Designing data pipelines and infrastructure for analytics and machine learning.",
+    //   icon: "📊"
+    // },
     {
       title: "Data Analysis",
       description: "Extracting insights from complex datasets to drive business decisions.",
@@ -27,7 +27,7 @@ export const Services = () => {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 className="text-3xl font-bold text-center text-gray-800 mb-12">What I Offer</h2>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {services.map((service, index) => (
             <div 
               key={index}

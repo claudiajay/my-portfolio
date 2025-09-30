@@ -2,12 +2,12 @@ export const TechStack = () => {
   const categories = [
     {
       name: "Frontend",
-      tools: ["React", "TypeScript", "Tailwind CSS", "Next.js"]
+      tools: ["React", "TypeScript", "Tailwind CSS", "Next.js", "JavaScript"]
     },
-    // {
-    //   name: "Backend",
-    //   tools: ["Node.js", "Python", "Express", "Flask"]
-    // },
+    {
+      name: "Backend",
+      tools: ["Node.js", "Express", "Laravel", "MongoDB", "PostgreSQL"]
+    },
     {
       name: "Data",
       tools: ["Excel", "SQL", "R", "Tableau"]

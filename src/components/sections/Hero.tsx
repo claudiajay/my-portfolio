@@ -8,7 +8,9 @@ const Hero = () => {
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800mb-4">
             Hi, I'm <span className="text-cyan-600">Claudia</span>
           </h1>
-          <h2 className="text-2xl md:text-3xl text-gray-600">Tech Enthusiast | Developer, Analyst, and Engineer in Progress</h2>
+          <h2 className="text-2xl md:text-3xl text-gray-600">Software Engineer 
+            | Tech Enthusiast
+          </h2>
           <p className="text-gray-600 mb-8 max-w-lg">I’m passionate about building smart, impactful digital experiences using modern tools and data-driven thinking.
           </p>
           <div className="flex flex-col md:flex-row gap-4 space-x-4">

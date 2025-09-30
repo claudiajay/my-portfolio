@@ -1,5 +1,5 @@
 import { Project } from "../types/project";
-import headphones from "../assets/headphones.png";
+// import headphones from "../assets/headphones.png";
 import portfolio from "../assets/portfolio.png";
 import procure from "../assets/procure.png";
 import nook from "../assets/nook.png";
